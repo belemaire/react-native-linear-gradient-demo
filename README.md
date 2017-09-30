@@ -1,7 +1,9 @@
 # react-native-linerar-gradient-demo
 
-Usage demo of react-native-linerar-gradient with ERN platform
+Usage demo of react-native-linerar-gradient-demo with Electrode Native platform
 
-Given you have ERN platform installed, just run `ern miniapp run android` to launch this demo MiniApp on Android.
+1) Clone this repo
+2) Run `yarn install`  
+3) `ern run-android` or `ern ru-ios`
 
-iOS is not supported in this demo yet.
+This current demo version is using Electrode Native 0.7 version.
